@@ -1,0 +1,10 @@
+✅ Responsive layout (mobile + desktop)
+✅ Mood selection with emojis/icons
+✅ Daily note input
+✅ Date auto-population
+✅ Weather via geolocation + OpenWeatherMap
+✅ Calendar view for past entries
+✅ Dynamic UI changes with moods
+✅ Smooth animations
+✅ Form validations + notifications
+✅ Bonus: Dark mode, CSV export, mood graph
